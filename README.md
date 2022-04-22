@@ -9,7 +9,7 @@ DIRECTORY STRUCTURE
 * MONGODB   --> MongoDB work items (tested and completed)
 
 
-NOTE
+NOTES
 -------------------------------------------------------------------------------------------------------------
 * All w.i.p artifacts will be individual files with corresponding file extensions
 * All work items will be GZip Tarball archives, containing all necessary modules and guidelines to execute the work item.
