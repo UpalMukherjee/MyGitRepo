@@ -3,10 +3,10 @@ A combined github repo for w.i.p artifacts and completed work items for Python, 
 
 DIRECTORY STRUCTURE
 -------------------------------------------------------------------------------------------------------------
-WIP       --> work-in-progress artifacts
-PYTHON    --> Python work items (tested and completed)
-POSTGRES  --> PostgreSQL work items (tested and completed)
-MONGODB   --> MongoDB work items (tested and completed)
+* WIP       --> work-in-progress artifacts
+* PYTHON    --> Python work items (tested and completed)
+* POSTGRES  --> PostgreSQL work items (tested and completed)
+* MONGODB   --> MongoDB work items (tested and completed)
 
 
 NOTE
