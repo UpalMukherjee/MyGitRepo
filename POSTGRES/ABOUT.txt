@@ -1,1 +1,0 @@
-This directory contains work items for PostgreSQL that have been tested and completed.
