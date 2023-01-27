@@ -1,15 +1,12 @@
 # MyGitRepo
-A combined github repo for w.i.p artifacts and completed work items for Python, Postgres and MongoDB domains
+My GitHub repository for Python and MongoDB artifacts
 
 DIRECTORY STRUCTURE
 -------------------------------------------------------------------------------------------------------------
-* WIP       --> work-in-progress artifacts
-* PYTHON    --> Python work items (tested and completed)
-* POSTGRES  --> PostgreSQL work items (tested and completed)
-* MONGODB   --> MongoDB work items (tested and completed)
+* PYTHON    --> Python work items
+* MONGODB   --> MongoDB work items
 
 
 NOTES
 -------------------------------------------------------------------------------------------------------------
-* All w.i.p artifacts will be individual files with corresponding file extensions
-* All work items will be GZip Tarball archives, containing all necessary modules and guidelines to execute the work item.
+* All work items will be GZip Tarball archives, containing all necessary components to execute the work item.
