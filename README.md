@@ -9,4 +9,4 @@ DIRECTORY STRUCTURE
 
 NOTES
 -------------------------------------------------------------------------------------------------------------
-All work items will be GZip Tarball archives, containing all necessary components to execute the work item.
+* All work items will be GZip Tarball archives, containing all necessary components to execute the work item.
